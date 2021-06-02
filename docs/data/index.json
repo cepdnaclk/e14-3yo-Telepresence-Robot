@@ -1,40 +1,26 @@
 {
-    "title": "This is the title of the project",
+    "title": "Telepresence Robot",
     "team": [
         {
-            "name": "Team Member Name 1",
-            "email": "email@eng.pdn.ac.lk",
-            "eNumber": "E/yy/xxx",
-            "github_profile":"#",
-            "linkedin_profile":"#"
+            "name": "Sanoj Punchihewa",
+            "email": "e14262@eng.pdn.ac.lk",
+            "eNumber": "E/14/262"
         },
         {
-            "name": "Team Member Name 2",
-            "email": "email@eng.pdn.ac.lk",
-            "eNumber": "E/yy/xxx",
-            "github_profile":"#",
-            "linkedin_profile":"#"
+            "name": "Chandima B Samarasinghe",
+            "email": "e14305@eng.pdn.ac.lk",
+            "eNumber": "E/14/305"
         },
         {
-            "name": "Team Member Name 3",
-            "email": "email@eng.pdn.ac.lk",
-            "eNumber": "E/yy/xxx",
-            "github_profile":"#",
-            "linkedin_profile":"#"
+            "name": "Yuvini Sumanasekera",
+            "email": "e14337@eng.pdn.ac.lk",
+            "eNumber": "E/14/337"
         }
     ],
     "supervisors": [
         {
-            "name": "Dr. Supervisor 1",
-            "email": "email@eng.pdn.ac.lk",
-            "linkedin_profile":"#",
-            "researchgate_profile":"#"
-        },
-        {
-            "name": "Supervisor 2",
-            "email": "email@eng.pdn.ac.lk",
-            "linkedin_profile":"#",
-            "researchgate_profile":"#"
+            "name": "Dr. Isuru Nawinne",
+            "email": "isurunawinne@eng.pdn.ac.lk"
         }
     ],
     "tags": ["Web", "Embedded Systems"]
