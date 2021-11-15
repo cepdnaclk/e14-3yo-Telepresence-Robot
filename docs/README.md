@@ -6,9 +6,9 @@ title: Telepresence Robot
 ---
 # Telepresence Robot
 ## Team
--  E/14/262, Sanoj Punchihewa, [e14262@eng.pdn.ac.lk](mailto:e14262@eng.pdn.ac.lk)
--  E/14/305, Chandima B Samarasinghe, [e14305@eng.pdn.ac.lk](mailto:e14305@eng.pdn.ac.lk)
--  E/14/337, Yuvini Sumanasekera, [e14337@eng.pdn.ac.lk](mailto:e14337@eng.pdn.ac.lk)
+-  E/14/262, Sanoj Punchihewa, [e14262@ce.pdn.ac.lk](mailto:e14262@ce.pdn.ac.lk)
+-  E/14/305, Chandima B Samarasinghe, [e14305@ce.pdn.ac.lk](mailto:e14305@ce.pdn.ac.lk)
+-  E/14/337, Yuvini Sumanasekera, [e14337@ce.pdn.ac.lk](mailto:e14337@ce.pdn.ac.lk)
 
 ## Table of Contents
 1. [Introduction](#introduction)
@@ -167,7 +167,7 @@ The browser component we normally used in android application development can ac
 - <a href = "https://github.com/cepdnaclk/e14-3yp-Telepresence-Robot" target = "_blank"> Project Repository </a>
 - <a href = "https://cepdnaclk.github.io/e14-3yp-Telepresence-Robot/" target = "_blank">Project Page</a>
 - <a href = "http://www.ce.pdn.ac.lk/" target = "_blank">Department of Computer Engineering</a>
-- <a href = "https://eng.pdn.ac.lk/" target = "_blank">University of Peradeniya</a>
+- <a href = "https://ce.pdn.ac.lk/" target = "_blank">University of Peradeniya</a>
 
 
 
